@@ -26,7 +26,7 @@
         "APP_ROUTES_CACHE": "/tmp/routes.php",
         "APP_SERVICES_CACHE": "/tmp/services.php",
         "VIEW_COMPILED_PATH": "/tmp/views",
-
+        "APP_KEY": "base64:qyRTa5BpLJWt6S7BPzE8eo+5a7u7WgL5ID7rEmPU/q0=",
         "CACHE_DRIVER": "array",
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "array",
